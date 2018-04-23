@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">婚姻建議</string>
-    <string name="Sex">性別(sex)</string>
-    <string name="Age">年齡(age)</string>
-    <string name="enter">確定</string>
-    <string name="boyorgirl">男/女</string>
-    <string name="Suggest"/>
-</resources>
